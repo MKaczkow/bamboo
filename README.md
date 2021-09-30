@@ -1,8 +1,10 @@
 # bamboo
-repo for exercises with pandas library  
+repo for basic exercises with pandas and matplotlib library  
 
 Code based on:  
-https://bit.ly/3F17lbd
+https://bit.ly/3F17lbd  
+and:  
+https://bit.ly/3zPZedS
 
 by:  
 https://github.com/CoreyMSchafer  
